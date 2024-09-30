@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shpoe.github.io/Lkh/sitemap.Lkh.gz
